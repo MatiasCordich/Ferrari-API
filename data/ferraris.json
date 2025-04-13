@@ -1,0 +1,781 @@
+[
+  {
+    "id": 1,
+    "modelo": "Ferrari 125 S",
+    "anio": 1947,
+    "tipo_de_automovil": "Deportivo",
+    "caballos_de_fuerza": 118,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 180,
+    "aceleracion": 8.0
+  },
+  {
+    "id": 2,
+    "modelo": "Ferrari 166 Inter",
+    "anio": 1948,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 90,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 150,
+    "aceleracion": 10.0
+  },
+  {
+    "id": 3,
+    "modelo": "Ferrari 166 MM",
+    "anio": 1949,
+    "tipo_de_automovil": "Barchetta",
+    "caballos_de_fuerza": 140,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 170,
+    "aceleracion": 9.5
+  },
+  {
+    "id": 4,
+    "modelo": "Ferrari 195 S",
+    "anio": 1950,
+    "tipo_de_automovil": "Deportivo",
+    "caballos_de_fuerza": 130,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 180,
+    "aceleracion": 9.0
+  },
+  {
+    "id": 5,
+    "modelo": "Ferrari 212 Inter",
+    "anio": 1951,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 150,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 190,
+    "aceleracion": 8.5
+  },
+  {
+    "id": 6,
+    "modelo": "Ferrari 225 S",
+    "anio": 1952,
+    "tipo_de_automovil": "Deportivo",
+    "caballos_de_fuerza": 210,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 200,
+    "aceleracion": 8.0
+  },
+  {
+    "id": 7,
+    "modelo": "Ferrari 250 MM",
+    "anio": 1953,
+    "tipo_de_automovil": "Deportivo",
+    "caballos_de_fuerza": 240,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 220,
+    "aceleracion": 7.5
+  },
+  {
+    "id": 8,
+    "modelo": "Ferrari 250 Europa",
+    "anio": 1954,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 220,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 210,
+    "aceleracion": 8.0
+  },
+  {
+    "id": 9,
+    "modelo": "Ferrari 250 GT Coupe",
+    "anio": 1955,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 240,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 230,
+    "aceleracion": 7.0
+  },
+  {
+    "id": 10,
+    "modelo": "Ferrari 250 GT Berlinetta",
+    "anio": 1956,
+    "tipo_de_automovil": "Deportivo",
+    "caballos_de_fuerza": 260,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 240,
+    "aceleracion": 6.5
+  },
+  {
+    "id": 11,
+    "modelo": "Ferrari 250 Testa Rossa",
+    "anio": 1957,
+    "tipo_de_automovil": "Barchetta",
+    "caballos_de_fuerza": 300,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 270,
+    "aceleracion": 6.0
+  },
+  {
+    "id": 12,
+    "modelo": "Ferrari 250 GT California Spyder",
+    "anio": 1958,
+    "tipo_de_automovil": "Descapotable",
+    "caballos_de_fuerza": 240,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 230,
+    "aceleracion": 7.0
+  },
+  {
+    "id": 13,
+    "modelo": "Ferrari 250 GT Berlinetta SWB",
+    "anio": 1959,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 280,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 250,
+    "aceleracion": 6.5
+  },
+  {
+    "id": 14,
+    "modelo": "Ferrari 250 GT Lusso",
+    "anio": 1960,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 240,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 240,
+    "aceleracion": 7.2
+  },
+  {
+    "id": 15,
+    "modelo": "Ferrari 250 GT California SWB",
+    "anio": 1961,
+    "tipo_de_automovil": "Descapotable",
+    "caballos_de_fuerza": 280,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 250,
+    "aceleracion": 6.6
+  },
+  {
+    "id": 16,
+    "modelo": "Ferrari 250 GTO",
+    "anio": 1962,
+    "tipo_de_automovil": "Coupe de competicion",
+    "caballos_de_fuerza": 300,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 280,
+    "aceleracion": 5.4
+  },
+  {
+    "id": 17,
+    "modelo": "Ferrari 330 America",
+    "anio": 1963,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 300,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 240,
+    "aceleracion": 7.0
+  },
+  {
+    "id": 18,
+    "modelo": "Ferrari 275 GTB",
+    "anio": 1964,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 280,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 260,
+    "aceleracion": 6.0
+  },
+  {
+    "id": 19,
+    "modelo": "Ferrari 275 GTS",
+    "anio": 1965,
+    "tipo_de_automovil": "Descapotable",
+    "caballos_de_fuerza": 260,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 240,
+    "aceleracion": 6.8
+  },
+  {
+    "id": 20,
+    "modelo": "Ferrari 330 GTC",
+    "anio": 1966,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 300,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 250,
+    "aceleracion": 6.5
+  },
+  {
+    "id": 21,
+    "modelo": "Ferrari 330 GTS",
+    "anio": 1967,
+    "tipo_de_automovil": "Descapotable",
+    "caballos_de_fuerza": 300,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 250,
+    "aceleracion": 6.5
+  },
+  {
+    "id": 22,
+    "modelo": "Ferrari 365 GT 2+2",
+    "anio": 1968,
+    "tipo_de_automovil": "Gran Turismo",
+    "caballos_de_fuerza": 320,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 245,
+    "aceleracion": 7.0
+  },
+  {
+    "id": 23,
+    "modelo": "Ferrari 365 GTC",
+    "anio": 1969,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 320,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 250,
+    "aceleracion": 6.5
+  },
+  {
+    "id": 24,
+    "modelo": "Ferrari 365 GTB/4 Daytona",
+    "anio": 1970,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 352,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 280,
+    "aceleracion": 5.4
+  },
+  {
+    "id": 25,
+    "modelo": "Ferrari 365 GTS/4 Daytona Spyder",
+    "anio": 1971,
+    "tipo_de_automovil": "Descapotable",
+    "caballos_de_fuerza": 352,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 280,
+    "aceleracion": 5.5
+  },
+  {
+    "id": 26,
+    "modelo": "Ferrari Dino 246 GT",
+    "anio": 1972,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 195,
+    "tipo_de_motor": "V6",
+    "velocidad_maxima": 235,
+    "aceleracion": 7.0
+  },
+  {
+    "id": 27,
+    "modelo": "Ferrari Dino 246 GTS",
+    "anio": 1973,
+    "tipo_de_automovil": "Targa",
+    "caballos_de_fuerza": 195,
+    "tipo_de_motor": "V6",
+    "velocidad_maxima": 235,
+    "aceleracion": 7.0
+  },
+  {
+    "id": 28,
+    "modelo": "Ferrari 365 GT4 BB",
+    "anio": 1974,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 380,
+    "tipo_de_motor": "Flat-12",
+    "velocidad_maxima": 302,
+    "aceleracion": 5.4
+  },
+  {
+    "id": 29,
+    "modelo": "Ferrari 308 GT4",
+    "anio": 1975,
+    "tipo_de_automovil": "Coupe 2+2",
+    "caballos_de_fuerza": 255,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 250,
+    "aceleracion": 6.7
+  },
+  {
+    "id": 30,
+    "modelo": "Ferrari 308 GTB",
+    "anio": 1976,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 255,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 252,
+    "aceleracion": 6.5
+  },
+  {
+    "id": 31,
+    "modelo": "Ferrari 512 BB",
+    "anio": 1977,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 360,
+    "tipo_de_motor": "Flat-12",
+    "velocidad_maxima": 280,
+    "aceleracion": 5.4
+  },
+  {
+    "id": 32,
+    "modelo": "Ferrari 308 GTS",
+    "anio": 1978,
+    "tipo_de_automovil": "Targa",
+    "caballos_de_fuerza": 240,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 240,
+    "aceleracion": 6.8
+  },
+  {
+    "id": 33,
+    "modelo": "Ferrari 308 GTBi",
+    "anio": 1979,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 214,
+    "tipo_de_motor": "V8 inyeccion",
+    "velocidad_maxima": 233,
+    "aceleracion": 7.0
+  },
+  {
+    "id": 34,
+    "modelo": "Ferrari Mondial 8",
+    "anio": 1980,
+    "tipo_de_automovil": "Coupe 2+2",
+    "caballos_de_fuerza": 214,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 220,
+    "aceleracion": 8.2
+  },
+  {
+    "id": 35,
+    "modelo": "Ferrari 512 BBi",
+    "anio": 1981,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 340,
+    "tipo_de_motor": "Flat-12 inyeccion",
+    "velocidad_maxima": 275,
+    "aceleracion": 5.5
+  },
+  {
+    "id": 36,
+    "modelo": "Ferrari 308 GTSi",
+    "anio": 1982,
+    "tipo_de_automovil": "Targa",
+    "caballos_de_fuerza": 205,
+    "tipo_de_motor": "V8 inyeccion",
+    "velocidad_maxima": 233,
+    "aceleracion": 7.6
+  },
+  {
+    "id": 37,
+    "modelo": "Ferrari 288 GTO",
+    "anio": 1983,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 400,
+    "tipo_de_motor": "V8 Twin-Turbo",
+    "velocidad_maxima": 305,
+    "aceleracion": 4.9
+  },
+  {
+    "id": 38,
+    "modelo": "Ferrari Testarossa",
+    "anio": 1984,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 390,
+    "tipo_de_motor": "Flat-12",
+    "velocidad_maxima": 290,
+    "aceleracion": 5.3
+  },
+  {
+    "id": 39,
+    "modelo": "Ferrari Mondial Cabriolet",
+    "anio": 1985,
+    "tipo_de_automovil": "Descapotable 2+2",
+    "caballos_de_fuerza": 270,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 240,
+    "aceleracion": 7.8
+  },
+  {
+    "id": 40,
+    "modelo": "Ferrari 328 GTB",
+    "anio": 1986,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 270,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 263,
+    "aceleracion": 5.9
+  },
+  {
+    "id": 41,
+    "modelo": "Ferrari F40",
+    "anio": 1987,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 478,
+    "tipo_de_motor": "V8 Twin-Turbo",
+    "velocidad_maxima": 324,
+    "aceleracion": 3.8
+  },
+  {
+    "id": 42,
+    "modelo": "Ferrari Mondial T",
+    "anio": 1988,
+    "tipo_de_automovil": "Coupe 2+2",
+    "caballos_de_fuerza": 300,
+    "tipo_de_motor": "V8 transversal",
+    "velocidad_maxima": 250,
+    "aceleracion": 6.3
+  },
+  {
+    "id": 43,
+    "modelo": "Ferrari 348 TB",
+    "anio": 1989,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 300,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 275,
+    "aceleracion": 5.6
+  },
+  {
+    "id": 44,
+    "modelo": "Ferrari 348 TS",
+    "anio": 1990,
+    "tipo_de_automovil": "Targa",
+    "caballos_de_fuerza": 300,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 275,
+    "aceleracion": 5.6
+  },
+  {
+    "id": 45,
+    "modelo": "Ferrari 512 TR",
+    "anio": 1991,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 428,
+    "tipo_de_motor": "Flat-12",
+    "velocidad_maxima": 314,
+    "aceleracion": 4.8
+  },
+  {
+    "id": 46,
+    "modelo": "Ferrari 456 GT",
+    "anio": 1992,
+    "tipo_de_automovil": "Gran Turismo 2+2",
+    "caballos_de_fuerza": 436,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 300,
+    "aceleracion": 5.2
+  },
+  {
+    "id": 47,
+    "modelo": "Ferrari 512 TR",
+    "anio": 1993,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 428,
+    "tipo_de_motor": "Flat-12",
+    "velocidad_maxima": 314,
+    "aceleracion": 4.8
+  },
+  {
+    "id": 48,
+    "modelo": "Ferrari F355 Berlinetta",
+    "anio": 1994,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 375,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 295,
+    "aceleracion": 4.7
+  },
+  {
+    "id": 49,
+    "modelo": "Ferrari F50",
+    "anio": 1995,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 520,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 325,
+    "aceleracion": 3.8
+  },
+  {
+    "id": 50,
+    "modelo": "Ferrari 456 GTA",
+    "anio": 1996,
+    "tipo_de_automovil": "Coupe 2+2",
+    "caballos_de_fuerza": 442,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 300,
+    "aceleracion": 5.5
+  },
+  {
+    "id": 51,
+    "modelo": "Ferrari 550 Maranello",
+    "anio": 1997,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 485,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 320,
+    "aceleracion": 4.4
+  },
+  {
+    "id": 52,
+    "modelo": "Ferrari 355 F1 Spider",
+    "anio": 1998,
+    "tipo_de_automovil": "Descapotable",
+    "caballos_de_fuerza": 375,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 290,
+    "aceleracion": 4.7
+  },
+  {
+    "id": 53,
+    "modelo": "Ferrari 360 Modena",
+    "anio": 1999,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 400,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 295,
+    "aceleracion": 4.5
+  },
+  {
+    "id": 54,
+    "modelo": "Ferrari 550 Barchetta",
+    "anio": 2000,
+    "tipo_de_automovil": "Roadster",
+    "caballos_de_fuerza": 485,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 300,
+    "aceleracion": 4.4
+  },
+  {
+    "id": 55,
+    "modelo": "Ferrari 360 Spider",
+    "anio": 2001,
+    "tipo_de_automovil": "Descapotable",
+    "caballos_de_fuerza": 400,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 290,
+    "aceleracion": 4.5
+  },
+  {
+    "id": 56,
+    "modelo": "Ferrari Enzo",
+    "anio": 2002,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 660,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 350,
+    "aceleracion": 3.4
+  },
+  {
+    "id": 57,
+    "modelo": "Ferrari 575M Maranello",
+    "anio": 2003,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 515,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 325,
+    "aceleracion": 4.2
+  },
+  {
+    "id": 58,
+    "modelo": "Ferrari 612 Scaglietti",
+    "anio": 2004,
+    "tipo_de_automovil": "Coupe 2+2",
+    "caballos_de_fuerza": 540,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 320,
+    "aceleracion": 4.0
+  },
+  {
+    "id": 59,
+    "modelo": "Ferrari F430",
+    "anio": 2005,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 490,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 315,
+    "aceleracion": 4.0
+  },
+  {
+    "id": 60,
+    "modelo": "Ferrari 599 GTB Fiorano",
+    "anio": 2006,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 620,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 330,
+    "aceleracion": 3.7
+  },
+  {
+    "id": 61,
+    "modelo": "Ferrari 430 Scuderia",
+    "anio": 2007,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 510,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 319,
+    "aceleracion": 3.6
+  },
+  {
+    "id": 62,
+    "modelo": "Ferrari California",
+    "anio": 2008,
+    "tipo_de_automovil": "Convertible",
+    "caballos_de_fuerza": 460,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 310,
+    "aceleracion": 4.0
+  },
+  {
+    "id": 63,
+    "modelo": "Ferrari 458 Italia",
+    "anio": 2009,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 570,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 325,
+    "aceleracion": 3.4
+  },
+  {
+    "id": 64,
+    "modelo": "Ferrari 458 Spider",
+    "anio": 2010,
+    "tipo_de_automovil": "Descapotable",
+    "caballos_de_fuerza": 570,
+    "tipo_de_motor": "V8",
+    "velocidad_maxima": 320,
+    "aceleracion": 3.4
+  },
+  {
+    "id": 65,
+    "modelo": "Ferrari FF",
+    "anio": 2011,
+    "tipo_de_automovil": "Shooting Brake",
+    "caballos_de_fuerza": 660,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 335,
+    "aceleracion": 3.7
+  },
+  {
+    "id": 66,
+    "modelo": "Ferrari F12berlinetta",
+    "anio": 2012,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 740,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 340,
+    "aceleracion": 3.1
+  },
+  {
+    "id": 67,
+    "modelo": "Ferrari LaFerrari",
+    "anio": 2013,
+    "tipo_de_automovil": "Hibrido",
+    "caballos_de_fuerza": 963,
+    "tipo_de_motor": "V12 Hibrido",
+    "velocidad_maxima": 350,
+    "aceleracion": 2.6
+  },
+  {
+    "id": 68,
+    "modelo": "Ferrari California T",
+    "anio": 2014,
+    "tipo_de_automovil": "Convertible",
+    "caballos_de_fuerza": 560,
+    "tipo_de_motor": "V8 Turbo",
+    "velocidad_maxima": 316,
+    "aceleracion": 3.6
+  },
+  {
+    "id": 69,
+    "modelo": "Ferrari 488 GTB",
+    "anio": 2015,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 670,
+    "tipo_de_motor": "V8 Twin-Turbo",
+    "velocidad_maxima": 330,
+    "aceleracion": 3.0
+  },
+  {
+    "id": 70,
+    "modelo": "Ferrari GTC4Lusso",
+    "anio": 2016,
+    "tipo_de_automovil": "Shooting Brake",
+    "caballos_de_fuerza": 690,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 335,
+    "aceleracion": 3.4
+  },
+  {
+    "id": 71,
+    "modelo": "Ferrari 812 Superfast",
+    "anio": 2017,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 800,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 340,
+    "aceleracion": 2.9
+  },
+  {
+    "id": 72,
+    "modelo": "Ferrari Portofino",
+    "anio": 2018,
+    "tipo_de_automovil": "Convertible",
+    "caballos_de_fuerza": 600,
+    "tipo_de_motor": "V8 Turbo",
+    "velocidad_maxima": 320,
+    "aceleracion": 3.5
+  },
+  {
+    "id": 73,
+    "modelo": "Ferrari F8 Tributo",
+    "anio": 2019,
+    "tipo_de_automovil": "Berlinetta",
+    "caballos_de_fuerza": 720,
+    "tipo_de_motor": "V8 Twin-Turbo",
+    "velocidad_maxima": 340,
+    "aceleracion": 2.9
+  },
+  {
+    "id": 74,
+    "modelo": "Ferrari Roma",
+    "anio": 2020,
+    "tipo_de_automovil": "Coupe",
+    "caballos_de_fuerza": 620,
+    "tipo_de_motor": "V8 Twin-Turbo", "velocidad_maxima": 320,
+    "aceleracion": 3.4
+  },
+  {
+    "id": 75,
+    "modelo": "Ferrari SF90 Stradale",
+    "anio": 2021,
+    "tipo_de_automovil": "Hibrido",
+    "caballos_de_fuerza": 1000,
+    "tipo_de_motor": "V8 Hibrido",
+    "velocidad_maxima": 340,
+    "aceleracion": 2.5
+  },
+  {
+    "id": 76,
+    "modelo": "Ferrari 296 GTB",
+    "anio": 2022,
+    "tipo_de_automovil": "Hibrido",
+    "caballos_de_fuerza": 830,
+    "tipo_de_motor": "V6 Hibrido",
+    "velocidad_maxima": 330,
+    "aceleracion": 2.9
+  },
+  {
+    "id": 77,
+    "modelo": "Ferrari Purosangue",
+    "anio": 2023,
+    "tipo_de_automovil": "SUV",
+    "caballos_de_fuerza": 715,
+    "tipo_de_motor": "V12",
+    "velocidad_maxima": 310,
+    "aceleracion": 3.3
+  },
+  {
+    "id": 78,
+    "modelo": "Ferrari SF90 XX Stradale",
+    "anio": 2024,
+    "tipo_de_automovil": "Hibrido extremo",
+    "caballos_de_fuerza": 1030,
+    "tipo_de_motor": "V8 Hibrido",
+    "velocidad_maxima": 350,
+    "aceleracion": 2.3
+  }
+]
